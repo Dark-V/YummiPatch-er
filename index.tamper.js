@@ -43,7 +43,7 @@ if (website.includes('yummyanime.club/catalog/')) {
     episodes_container.appendChild(btn);
 };
 
-if (website.includes('aniqit.com/serial/')) {
+if (website.includes('aniqit.com/serial/') or website.includes('kodik.info/serial/')) {
 document.body.appendChild(iframe);
 DisplayChange('promo-error','none');
 DisplayChange('play_background','block');
