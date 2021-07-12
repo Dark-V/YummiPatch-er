@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YummiPatch'er
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Add new seria block on site, which allow you to watch all dub lines
 // @author       DV
 // @match        *://yummyanime.club/catalog/*
