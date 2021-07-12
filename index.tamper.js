@@ -6,6 +6,7 @@
 // @author       DV
 // @match        *://yummyanime.club/catalog/*
 // @match        *://aniqit.com/serial/*
+// @match        *://kodik.info/serial/* 
 // @updateURL    https://github.com/Dark-V/YummiPatch-er/blob/main/index.tamper.js
 // @icon         https://yummyanime.club/img/icon/yummy-32.png
 // @grant        none
