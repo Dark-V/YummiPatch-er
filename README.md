@@ -14,5 +14,5 @@ Add new seria block on site, which allow you to watch all dub lines
 1. Download https://www.tampermonkey.net/ and install it.
 2. Open index.tamper.js in new tab
 3. Press "RAW" button and install script. (or update it)
-4. Open Нummyanime and now you can saw new episode block named like "DV".
+4. Open Yummyanime and now you can saw new episode block, which named like "DV".
 5. Open it & Enjoy!
